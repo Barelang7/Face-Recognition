@@ -1,0 +1,3 @@
+kemudian implementasi real time terhadap NN dan SVM, menggunakan hasil klasifikasi sebelumnya.
+untuk mengeluarkan suara diperlukan untuk menginstall library espeak. ketika dijalankan recognizernya , maka file "modul" juga harus di run agar keluar suaranya.
+file "note" digunakan untuk perintah read write untuk self label.
